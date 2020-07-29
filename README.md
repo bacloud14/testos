@@ -1,12 +1,19 @@
 # testos
-minimal Ubuntu 19.10 based, AMD64 architecture live CD 
-Live CD installation
+Minimal Ubuntu 19.10 based, AMD64 architecture live CD 
+
+
+Live CD (no need to install)
 
 Lightdm, XFCE desktop env with some themes and icons.
-plus a browser and minimal Audio necessities. 
+
+Plus a browser and minimal Audio necessities. 
+
 Check ~/.icons and ~/.themes
+
 Default sudo user credentials:
+
 user: testos
+
 pwd: 01
 
 Link: 
